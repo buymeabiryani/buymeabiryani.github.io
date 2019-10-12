@@ -16,6 +16,6 @@ Suitable for shortform, longform, and probably even waveform. It is purpose-buil
 </div>
 
 <div class="post-image">
-    <img src="/img/gpay.png" alt="A full-size image example" />
+    <img src="/img/gpay.png" width="200" height="200" alt="A full-size image example" />
     <p class="post-image-caption">Here's the QR code for Google PAy! Just scan it to pay with G-Pay.</p>
 </div>
