@@ -17,5 +17,5 @@ Suitable for shortform, longform, and probably even waveform. It is purpose-buil
 
 <div class="post-image">
     <img src="/img/gpay.png" alt="A full-size image example" />
-    <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
+    <p class="post-image-caption">Here's the QR code for Google PAy! Just scan it to pay with G-Pay.</p>
 </div>
