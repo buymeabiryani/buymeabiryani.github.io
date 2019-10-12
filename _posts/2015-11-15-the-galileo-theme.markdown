@@ -16,6 +16,6 @@ Suitable for shortform, longform, and probably even waveform. It is purpose-buil
 </div>
 
 <div class="post-image">
-    <img src="http://placehold.it/750x563/8e8387/ffffff" alt="A full-size image example" />
+    <img src="/img/gpay.png" alt="A full-size image example" />
     <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
 </div>
